@@ -1,0 +1,10 @@
+Basic switched headlights.
+
+Toggle on push button.
+Auto-off after <time / motion>.
+Dual circuits - low and high beam.
+
+Strobbing rear lights.
+
+
+Measure V / I
