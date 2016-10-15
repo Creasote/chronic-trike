@@ -1,0 +1,14 @@
+audiosystem
+camerasystem
+chargecontroller
+displaysystem
+gps
+headlights
+horn
+indicators
+motorcontrol
+security
+speedsensor
+temperaturesensors
+throttle
+usbcharger
